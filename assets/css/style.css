@@ -89,16 +89,19 @@ p {
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+    filter: contrast(1.5);
 }
 
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
+    filter: contrast(1.5);
 }
 
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
+    filter: contrast(1.5);
 }
 
 .benefit-lead h3 {
