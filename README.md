@@ -19,7 +19,3 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
-
-## Features
-
-If your project has a lot of features, list them here.
